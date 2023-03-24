@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [frontend mentor solution link](https://www.frontendmentor.io/solutions/responsive-design-using-flexbox-6vek09Gdcy)
 - Live Site URL: [live site](https://gitax18.github.io/scorecard-frontend-mentor/)
 
 ## My process
